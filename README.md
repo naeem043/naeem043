@@ -35,6 +35,8 @@ I focus on building **ERP**, **Custom Software**, **Website**, **intelligent sys
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge)
 ![RASA](https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/VectorDB-Embedding-orange?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple?style=for-the-badge)
 
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
