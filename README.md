@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-💡 I am a **Software Engineer with 7+ years of experience**, specializing in **AI-driven systems, LLM applications, and scalable backend architectures**.
+💡 I am a **Software Engineer with 8+ years of experience**, specializing in **AI-driven systems, LLM applications, and scalable backend architectures**.
 
 I focus on building **ERP**, **Custom Software**, **Website**, **intelligent systems using LLMs, RAG pipelines, chatbots, and vector databases** that solve real-world business problems.
 
